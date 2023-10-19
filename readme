@@ -1,7 +1,7 @@
-## Link do docker hub
+- Link do docker hub
 
 https://hub.docker.com/r/jamesjhonatan/fullcycle
 
-## comando
+- comando
 
 docker pull jamesjhonatan/fullcycle
